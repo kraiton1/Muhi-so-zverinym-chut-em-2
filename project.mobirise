@@ -49,7 +49,7 @@
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "usedWebp": true,
     "favicon": false,
-    "mbrsiteDomain": "dtz7rzswc0",
+    "mbrsiteDomain": "ehxsl7czkg",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -59,7 +59,8 @@
     "uniqCompNum": 5,
     "versionPublish": "6.1.4",
     "screenshot": "screenshot.png",
-    "global_header_custom": "<style>\n  /* Общий стиль для всей области текста с тенью */\n  .text-with-shadow {\n    text-shadow: 0px 1px #000;\n  }\n</style><div class=\"text-with-shadow\">"
+    "global_header_custom": "<style>\n  /* Общий стиль для всей области текста с тенью */\n  .text-with-shadow {\n    text-shadow: 0px 1px #000;\n  }\n</style><div class=\"text-with-shadow\">",
+    "google-analytics": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\">\n    (function(m,e,t,r,i,k,a){\n        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n        m[i].l=1*new Date();\n        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)\n    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=104304177', 'ym');\n\n    ym(104304177, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:\"dataLayer\", accurateTrackBounce:true, trackLinks:true});\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/104304177\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "index.html": {
