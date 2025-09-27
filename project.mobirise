@@ -48,7 +48,7 @@
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "usedWebp": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/hd-68d7b4ac52300-128x85.png",
     "mbrsiteDomain": "ehxsl7czkg",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
